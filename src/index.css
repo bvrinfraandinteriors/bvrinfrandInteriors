@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  /* Define your custom theme values here */
+  --color-brand-orange: #F59E0B;
+}
