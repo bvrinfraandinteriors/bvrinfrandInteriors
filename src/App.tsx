@@ -1,4 +1,4 @@
-import Header from '../../my-construction-site-vite/src/components/Header';
+import Header from './components/Header';
 import Home from './components/Home';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import About from './components/About';
