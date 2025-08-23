@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const ProjectCard = ({ image, title }: { image: string, title: string }) => (
     <div className="group rounded-lg border border-gray-700/50 overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
